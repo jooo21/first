@@ -23,9 +23,9 @@
 }
 @media screen and (max-width:1179px){
     #popup {
-        width:400px; background:rgba(0,0,0,0.7);
+        width:300px; background:rgba(0,0,0,0.7);
         border-radius:5px; box-shadow:10px 10px 20px rgba(0,0,0,0.3);  
-        box-sizing:border-box; padding:40px;  color:#fff;
+        box-sizing:border-box; padding:20px;  color:#fff;
         z-index:5;
         &::after {
             content:''; display:block; clear:both;
